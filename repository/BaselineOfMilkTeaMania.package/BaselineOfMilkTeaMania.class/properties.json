@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMilkTeaMania",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMilkTeaMania",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

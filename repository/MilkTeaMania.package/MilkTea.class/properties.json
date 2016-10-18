@@ -1,0 +1,14 @@
+{
+	"category" : "MilkTeaMania",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MilkTea",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

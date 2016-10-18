@@ -1,0 +1,14 @@
+{
+	"category" : "MilkTeaMania",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MtEvaporatedMilk",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
